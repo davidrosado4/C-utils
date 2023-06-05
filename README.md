@@ -1,5 +1,6 @@
 # C-utils
-![Made by David Rosado](https://img.shields.io/badge/Made%20by-David%20Rosado-blue.svg)   ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Made by David Rosado](https://img.shields.io/badge/Made%20by-David%20Rosado-blue.svg)  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 <p align="center">
   <img src="img/icon_darkmode-modified.png" alt="Image" style="border-radius: 50%; width: 200px;" />
