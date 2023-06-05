@@ -19,7 +19,7 @@ Assume that the name of your C script is `myscript.c` and you want to add the `m
 #include <stdio.h>
 #include <stdlib.h>
 ...
-#include<matrix.h>
+#include "matrix.h"
 ```
 3. Compile and execute the code as follows:
 ```
