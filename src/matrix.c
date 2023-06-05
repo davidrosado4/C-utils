@@ -5,6 +5,7 @@
  */
 #include <stdio.h>
 #include <math.h>
+#include <stdlib.h>
 
 
 void matrix_mult(double** A, double** B, int n, int m, int p, int q, double** C){
@@ -23,6 +24,7 @@ void matrix_mult(double** A, double** B, int n, int m, int p, int q, double** C)
         printf("Wrong dimensions for matrix multiplication\n");
         exit(1);
     }else{
+        int i,j,k;
         /* Perform matrix multiplication */
         for (i = 0; i < n; i++) {
             for (j = 0; j < q; j++) {
